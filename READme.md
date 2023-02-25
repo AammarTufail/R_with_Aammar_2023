@@ -1,7 +1,7 @@
 # **R with Aammar: R for Data Analysis**
 **Learn R programming in Urdu/Hindi Language with desi examples and hands-on training**
 
-[<img src="./resources/00.png" width="42%">](https://youtube.com/playlist?list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU "Poster")
+[<img src="./resources/00.png" width="70%">](https://youtube.com/playlist?list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU "Poster")
 
 Table of Content:
 - [**R with Aammar: R for Data Analysis**](#r-with-aammar-r-for-data-analysis)
