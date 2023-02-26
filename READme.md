@@ -15,6 +15,7 @@ Table of Content:
     - [**Lecture 2: Data Visualization and plotting in R using ggplot2**](#lecture-2-data-visualization-and-plotting-in-r-using-ggplot2)
     - [**Lecture 3: Data Visualization and Data Transformation in R using tidyverse packages**](#lecture-3-data-visualization-and-data-transformation-in-r-using-tidyverse-packages)
     - [**Publication Ready Graphs in R**](#publication-ready-graphs-in-r)
+    - [**Lecture 4: Data Transformation in R using tidyverse packages**](#lecture-4-data-transformation-in-r-using-tidyverse-packages)
 
 ## **What is R?**
 
@@ -52,19 +53,19 @@ Several other book scan be found [here on Rstudio website](https://www.rstudio.c
 
 ### **Lecture 1a: Installation of Software and Introduction to R**
 - Click this image to watch the lecture\
-[<img src="./resources/00.png" width="42%">](https://www.youtube.com/watch?v=7Kq4mhY1mLM&list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU&index=1&t=8s "Lecture 1")
+[<img src="./resources/00.png" width="42%">](https://www.youtube.com/watch?v=7Kq4mhY1mLM&list=PL9XvIvvVL50F4aFhWp_drvP3XkQCHx2MU&index=1&t=8s "Lecture 1a")
 
 ### **Lecture 1b: First Line of Code in R and learning to work with R**
 - Click this image to watch the lecture\
-[<img src="./resources/01.png" width="42%">](https://www.youtube.com/live/yaVWzaKmV0c?feature=share "Lecture 2")
+[<img src="./resources/01.png" width="42%">](https://www.youtube.com/live/yaVWzaKmV0c?feature=share "Lecture 1b")
 
 ### **Lecture 2: Data Visualization and plotting in R using ggplot2**
 - Click this image to watch the lecture\
-[<img src="./resources/02.png" width="42%">](https://www.youtube.com/live/ZX4TamrL4Lg?feature=share "Lecture 3")
+[<img src="./resources/02.png" width="42%">](https://www.youtube.com/live/ZX4TamrL4Lg?feature=share "Lecture 2")
 
 ### **Lecture 3: Data Visualization and Data Transformation in R using tidyverse packages**
 - Click this image to watch the lecture\
-[<img src="./resources/03.png" width="42%">](https://www.youtube.com/live/6Ez7MQqudhQ?feature=share "Lecture 4")
+[<img src="./resources/03.png" width="42%">](https://www.youtube.com/live/6Ez7MQqudhQ?feature=share "Lecture 3")
 
 ### **Publication Ready Graphs in R**
 Wathc these two Playlist to learn Data Visualization in R in Desi style:
@@ -72,5 +73,10 @@ Wathc these two Playlist to learn Data Visualization in R in Desi style:
 1. [Publication Ready Graphs in R](https://www.youtube.com/playlist?list=PL9XvIvvVL50Hi2RGu-zlNEnk9WJMjPH-g)
 2. [Many plots in R](https://www.youtube.com/playlist?list=PL9XvIvvVL50HUjcRuTd5eC-EMA9picnVz)
 
+### **Lecture 4: Data Transformation in R using tidyverse packages**
+- Click this image to watch the lecture\
+[<img src="./resources/04.png" width="42%">](https://www.youtube.com/live/kPevM2yw_fw?feature=share "Lecture 4")
 
-
+>**Cheat sheet**\
+>Practice this cheatsheet today and then move to next point tomorrow.\
+>[Link to dplyr cheatsheet is here](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf "dplyr cheatsheet")
