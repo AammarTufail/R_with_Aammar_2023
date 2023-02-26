@@ -16,6 +16,7 @@ Table of Content:
     - [**Lecture 3: Data Visualization and Data Transformation in R using tidyverse packages**](#lecture-3-data-visualization-and-data-transformation-in-r-using-tidyverse-packages)
     - [**Publication Ready Graphs in R**](#publication-ready-graphs-in-r)
     - [**Lecture 4: Data Transformation in R using tidyverse packages**](#lecture-4-data-transformation-in-r-using-tidyverse-packages)
+    - [**Lecture 5: Statistics in R**](#lecture-5-statistics-in-r)
 
 ## **What is R?**
 
@@ -80,3 +81,12 @@ Wathc these two Playlist to learn Data Visualization in R in Desi style:
 >**Cheat sheet**\
 >Practice this cheatsheet today and then move to next point tomorrow.\
 >[Link to dplyr cheatsheet is here](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf "dplyr cheatsheet")
+
+### **Lecture 5: Statistics in R**
+- Click this image to watch the lecture\
+[<img src="./resources/05.png" width="42%">](https://www.youtube.com/live/9U0F-sct070?feature=share "Lecture 5")
+
+The following links were taught in this lecture:
+1. [How to test Normal Distribution in R?](https://www.statology.org/test-for-normality-in-r/)
+2. [How to make correlation plot in R?](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
+3. [How to make PCA plot in R](https://www.youtube.com/watch?v=q9757Bz8Mdw&list=PL9XvIvvVL50HUjcRuTd5eC-EMA9picnVz&index=1&t=1s)
