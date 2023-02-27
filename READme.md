@@ -98,3 +98,5 @@ The following links were taught in this lecture:
 
 - Click this image to watch the lecture\
 [<img src="./resources/06.png" width="42%">](https://youtube.com/live/qb-sGvCcQS4 "Lecture 6")
+
+[Here is the code that we used today](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/03-ggpubr/03-ggpubr-readme-.md)
