@@ -17,6 +17,7 @@ Table of Content:
     - [**Publication Ready Graphs in R**](#publication-ready-graphs-in-r)
     - [**Lecture 4: Data Transformation in R using tidyverse packages**](#lecture-4-data-transformation-in-r-using-tidyverse-packages)
     - [**Lecture 5: Statistics in R**](#lecture-5-statistics-in-r)
+    - [**Lecture 6: Choosing a right Statistical Method for Data Analysis in R**](#lecture-6-choosing-a-right-statistical-method-for-data-analysis-in-r)
 
 ## **What is R?**
 
@@ -43,10 +44,11 @@ A competent data scientist is a passionate coder-statistician, and there is no b
 2. [R for Data Science- 2nd Edition](http://r4ds.hadley.nz/) -  THis book has updated knowledge base for R.
 3. [R Cookbook - 2nd Edition](https://rc2e.com) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
 4. [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/) - This book is collection of theories and practical coding for grammar of graphic to learn Data Visualization.
-5. [R Graphics Cookbook - 2nd Edition](https://r-graphics.org) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
-6. [R Packages - 2nd Edition](https://r-pkgs.org) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
-7. [R Markdown - 2nd Edition](https://rmarkdown.rstudio.com) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
-8. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
+5. [Introduction to Data Exploration and Analysis with R](https://bookdown.org/mikemahoney218/IDEAR/)
+6. [R Graphics Cookbook - 2nd Edition](https://r-graphics.org) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
+7. [R Packages - 2nd Edition](https://r-pkgs.org) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
+8. [R Markdown - 2nd Edition](https://rmarkdown.rstudio.com) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
+9. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) - This book is a collection of recipes for solving common problems in data science. It is designed for people who are familiar with R, but who want to learn more about data science. It is also designed for people who are familiar with data science, but who want to learn R.
 
 Several other book scan be found [here on Rstudio website](https://www.rstudio.com/resources/books/).
 
@@ -90,3 +92,9 @@ The following links were taught in this lecture:
 1. [How to test Normal Distribution in R?](https://www.statology.org/test-for-normality-in-r/)
 2. [How to make correlation plot in R?](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html)
 3. [How to make PCA plot in R](https://www.youtube.com/watch?v=q9757Bz8Mdw&list=PL9XvIvvVL50HUjcRuTd5eC-EMA9picnVz&index=1&t=1s)
+4. [Here is a nice publication about choosing a right statistical method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6639881/#:~:text=Selection%20of%20appropriate%20statistical%20method,observations%20(paired%2Funpaired).)
+
+### **Lecture 6: Choosing a right Statistical Method for Data Analysis in R**
+
+- Click this image to watch the lecture\
+[<img src="./resources/06.png" width="42%">](https://youtube.com/live/qb-sGvCcQS4 "Lecture 6")
