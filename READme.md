@@ -18,6 +18,9 @@ Table of Content:
     - [**Lecture 4: Data Transformation in R using tidyverse packages**](#lecture-4-data-transformation-in-r-using-tidyverse-packages)
     - [**Lecture 5: Statistics in R**](#lecture-5-statistics-in-r)
     - [**Lecture 6: Choosing a right Statistical Method for Data Analysis in R**](#lecture-6-choosing-a-right-statistical-method-for-data-analysis-in-r)
+    - [**Lecture 7: t-test (all Types), ANOVA, One-way ANOVA, Two-way ANOVA, lettering and plotting in R**](#lecture-7-t-test-all-types-anova-one-way-anova-two-way-anova-lettering-and-plotting-in-r)
+    - [**Lecture 8: Publication Ready Plots in R**](#lecture-8-publication-ready-plots-in-r)
+  - [**Latest updates**](#latest-updates)
 
 ## **What is R?**
 
@@ -100,3 +103,33 @@ The following links were taught in this lecture:
 [<img src="./resources/06.png" width="42%">](https://youtube.com/live/qb-sGvCcQS4 "Lecture 6")
 
 [Here is the code that we used today](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/03-ggpubr/03-ggpubr-readme-.md)
+
+### **Lecture 7: t-test (all Types), ANOVA, One-way ANOVA, Two-way ANOVA, lettering and plotting in R**
+
+- Click this image to watch the lecture\
+[<img src="./resources/07.png" width="42%">](https://www.youtube.com/live/nGbf3J6hB7U?feature=share "Lecture 7")
+
+Here are the codes we discussed in this lecture:
+1. RScript used in this lecture:
+   1. [t-test script](resources/t-test.R)
+   2. [ANOVA](resources/anova.R)
+2. [t-test blog](https://data-flair.training/blogs/t-tests-in-r/#:~:text=What%20is%20T%2Dtests%20in%20R%20Programming%3F,normal%20distributions%20with%20equal%20variances.)
+3. [One-way ANOVA in R complete blog](https://statsandr.com/blog/anova-in-r/)
+4. [Two-way ANOVA in R complete blog](https://www.agroninfo.com/two-way-analysis-of-variance-in-r/)
+
+### **Lecture 8: Publication Ready Plots in R**
+
+1. Publication Ready Bar plot with one-way ANOVA and lettering in R:
+
+[<img src="./resources/bar.png" width="80%">](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/06-%20Publication-ready-Barplots/06--Publication-ready-Barplots.md "bar plot")
+> Here is the code: [code.md](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/06-%20Publication-ready-Barplots/06--Publication-ready-Barplots.md)
+
+2. Publication Ready Bar plot with two-way ANOVA and lettering in R:
+
+[<img src="./resources/twoway.png" width="80%">](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/07-%20two_way_ANOVA_barplots/07-two_way_ANOVA_barplot_with_lettering.md "bar plot")
+
+> Here is the code: [code.md](https://github.com/AammarTufail/R_with_Aammar/blob/main/Publication_Ready_Figures/07-%20two_way_ANOVA_barplots/07-two_way_ANOVA_barplot_with_lettering.md)
+
+
+## **Latest updates**
+More updated video lectures will be updated in the github repositoy, star and fork this for future lectures.
